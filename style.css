@@ -31,7 +31,7 @@ body {
 }
 
 h1 {
-    font-size: 4rem; /* Increased font size */
+    font-size: 3rem; /* Increased font size */
     color: #6a1b9a; /* Deep pink-purple color */
     font-weight: bold;
     margin-bottom: 20px;
@@ -42,7 +42,7 @@ h1 {
 }
 
 i.fas.fa-star {
-    font-size: 5rem;
+    font-size: 4rem;
     color: #ffeb3b; /* Bright yellow for a warm, uplifting look */
     margin-top: 20px;
     animation: starTwinkle 1s infinite alternate;
@@ -85,7 +85,7 @@ button:hover {
     font-family: "Poppins", serif;    
     background-color: #fff;
     color: #333;
-    padding: 30px;
+    padding: 25px;
     border-radius: 20px;
     text-align: center;
     width: 90%;
@@ -96,7 +96,7 @@ button:hover {
 }
 
 h2 {
-    font-size: 3.5rem; /* Increased font size */
+    font-size: 2.5rem; /* Increased font size */
     margin-bottom: 20px;
     color: #FF6F91;
     font-family: "Poppins", serif;    
